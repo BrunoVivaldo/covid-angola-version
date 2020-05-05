@@ -14,7 +14,7 @@ Apresento aqui a minha versão do App "Build a COVID-19 Tracker Application" uti
 *   Charts js
 *   axios
 
-![](https://t2475519.p.clickup-attachments.com/t2475519/0a07608e-2cda-48f0-9250-3a3d0eaa8f7a/Captura%20de%20ecr%C3%A3%20de%202020-05-05%2014-56-13.png)
+![](https://github.com/BrunoVivaldo/covid-angola-version/blob/master/src/images/covid-angola-version.png)
 
   
 
