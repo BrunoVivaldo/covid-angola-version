@@ -14,6 +14,8 @@ Apresento aqui a minha versão do App "Build a COVID-19 Tracker Application" uti
 *   Charts js
 *   axios
 
+![](https://t2475519.p.clickup-attachments.com/t2475519/0a07608e-2cda-48f0-9250-3a3d0eaa8f7a/Captura%20de%20ecr%C3%A3%20de%202020-05-05%2014-56-13.png)
+
   
 
 Consumindo os dados da api [https://covid19.mathdro.id/api](https://covid19.mathdro.id/api) , buscando informações dos :
@@ -36,7 +38,6 @@ Para saber mais sobre e aprender a fazer a versão original acesse o link [https
 
 Juntos somos mais fortes.
 =========================
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
